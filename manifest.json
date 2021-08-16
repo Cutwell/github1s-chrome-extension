@@ -1,10 +1,11 @@
 {
     "name": "github1s-chrome-extension",
-    "version": "1.0",
-    "description": "Add UI to open GitHub repositories in GitHub1s",
+    "version": "1.1",
+    "description": "Insert UI to open GitHub repositories in GitHub1s",
     "permissions": [
         "activeTab",
-        "declarativeContent"
+        "declarativeContent",
+        "storage"
     ],
     "background": {
         "scripts": [
@@ -15,12 +16,20 @@
     "page_action": {
         "default_icon": {
             "16": "data/img/icon16.png",
-            "32": "data/img/icon32.png"
+            "32": "data/img/icon32.png",
+            "48": "data/img/icon48.png",
+            "128": "data/img/icon128.png"
         }
+    },
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": false
     },
     "icons": {
         "16": "data/img/icon16.png",
-        "32": "data/img/icon32.png"
+        "32": "data/img/icon32.png",
+        "48": "data/img/icon48.png",
+        "128": "data/img/icon128.png"
     },
     "content_scripts": [
         {
