@@ -1,4 +1,5 @@
-# github1s-chrome-extension
+![logo](data/img/icon128.png "logo")
+
  Insert UI to open GitHub repositories in GitHub1s
 
 ## About
