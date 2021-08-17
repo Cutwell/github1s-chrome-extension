@@ -5,7 +5,7 @@
 ## About
 | |
 |:---:|
-| ![example UI](github/images/example_inserted_UI.PNG "example UI") |
+| ![example UI](github/images/chrome_store_example.PNG "example UI") |
 | This extension creates additional UI within GitHub repositories, making it easier to open them in GitHub1s. |
 
 GitHub1s is a web-app for viewing GitHub repository files online, using a web-compiled version of VSCode. This extension introduces a new UI button to the GitHub repository file navigation bar, enabling users to easily open the repository inside the GitHub1s website.
