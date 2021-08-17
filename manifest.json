@@ -3,16 +3,9 @@
     "version": "1.1",
     "description": "Insert UI to open GitHub repositories in GitHub1s",
     "permissions": [
-        "activeTab",
         "declarativeContent",
         "storage"
     ],
-    "background": {
-        "scripts": [
-            "data/js/background.js"
-        ],
-        "persistent": false
-    },
     "page_action": {
         "default_icon": {
             "16": "data/img/icon16.png",
