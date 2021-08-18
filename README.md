@@ -2,6 +2,11 @@
 
  Insert UI to open GitHub repositories in GitHub1s
 
+| |
+|:---:|
+| ![chrome web store](github/images/chromewebstore_logo.png "chrome web store") |
+| Install the GitHub1s extension in the [Chrome web store](https://chrome.google.com/webstore/detail/github1s-chrome-extension/iijaagbkdohcopmmohlgfkcloefoeaoj). |
+
 ## About
 | |
 |:---:|
@@ -18,7 +23,7 @@ GitHub1s is a web-app for viewing GitHub repository files online, using a web-co
 
 (2) however, no such problems where encountered in testing.
 
-## Installation
+## Manual installation
 | |
 |:---:|
 | ![extension page](github/images/extension_page_load_unpacked.PNG "extension page") |
