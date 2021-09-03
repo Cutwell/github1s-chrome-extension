@@ -1,9 +1,8 @@
 {
-    "name": "github1s-chrome-extension",
-    "version": "1.2",
-    "description": "Insert UI to open GitHub repositories in GitHub1s",
+    "name": "Open in GitHub1s",
+    "version": "1.3",
+    "description": "Add a new navigation option to open GitHub repositories in GitHub1s.",
     "permissions": [
-        "declarativeContent",
         "storage"
     ],
     "page_action": {
@@ -24,6 +23,9 @@
         {
             "js": [
                 "data/js/content.js"
+            ],
+            "css": [
+                "data/css/extension.css"
             ],
             "matches": [
                 "https://github.com/*"

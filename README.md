@@ -1,6 +1,6 @@
-![logo](data/img/icon128.png "logo")
+![Open in GitHub1s](data/img/icon128.png "Open in GitHub1s")
 
- Insert UI to open GitHub repositories in GitHub1s
+ Add a new navigation option to open GitHub repositories in GitHub1s.
 
 | |
 |:---:|
@@ -13,15 +13,7 @@
 | ![example UI](github/images/chromewebstore.jpg "example UI") |
 | This extension creates additional UI within GitHub repositories, making it easier to open them in GitHub1s. |
 
-GitHub1s is a web-app for viewing GitHub repository files online, using a web-compiled version of VSCode. This extension introduces a new UI button to the GitHub repository file navigation bar, enabling users to easily open the repository inside the GitHub1s website.
-
-* A simple Chrome extension, which should be compatible with any Chromium-based browser(1). 
-* Inserts additional UI content into the repository navigation bar, providing a redirect to the [GitHub1s](https://github1s.com/conwnet/github1s) repository-viewer webapp.
-* Note: should only insert UI elements on repository pages, but code will attempt to insert into the first  "file-navigation" class element on each github.com domain page, which may cause unexpected UI if this class occurs elsewhere on the website than the repository pages (2).
-
-(1) tested in Opera.
-
-(2) however, no such problems where encountered in testing.
+[GitHub1s](https://github1s.com/conwnet/github1s) is a web-app for viewing GitHub repository files online, using a web-compiled version of VSCode. This extension introduces a new UI button to the GitHub repository file navigation bar, enabling users to easily open the repository inside the GitHub1s website.
 
 ## Manual installation
 | |
