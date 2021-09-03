@@ -5,7 +5,7 @@
     "permissions": [
         "storage"
     ],
-    "page_action": {
+    "action": {
         "default_icon": {
             "48": "data/img/icon48.png",
             "128": "data/img/icon128.png"

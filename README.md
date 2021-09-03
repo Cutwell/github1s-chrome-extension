@@ -2,6 +2,8 @@
 
  Add a new navigation option to open GitHub repositories in GitHub1s.
 
+![manifest shield](https://img.shields.io/badge/Chrome%20Manifest-v3-blue, "manifest shield")
+
 | |
 |:---:|
 | ![chrome web store](github/images/chromewebstore_logo.png "chrome web store") |
