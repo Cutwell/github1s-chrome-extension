@@ -1,6 +1,6 @@
 {
     "name": "Open in GitHub1s",
-    "version": "1.3",
+    "version": "1.4",
     "description": "Add a new navigation option to open GitHub repositories in GitHub1s.",
     "permissions": [
         "storage"
