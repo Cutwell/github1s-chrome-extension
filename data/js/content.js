@@ -44,7 +44,7 @@ function composeDOM() {
 
     // insert into DOM //
     // locate file navigation
-    let nav = document.getElementsByClassName("file-navigation")[0];
+    let nav = document.getElementsByClassName("file-navigation")[0] || document.getElementsByClassName("gh-header-actions")[0];
 
     // insert element
     if (nav !== undefined) {
